@@ -1,0 +1,5 @@
+print('Enter A')
+a=int(input())
+print('Enter B')
+b=int(input())
+print(a, ' + ', b, ' = ', a+b)
